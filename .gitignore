@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# IDE/editor files
+.vscode/
+# .idea/
+
+# Log files
+logs/
+*.log
+
+# Compiled output
+dist/
+build/
+
+# Dependency lock files
+package-lock.json
+# yarn.lock
+
+# macOS
+# .DS_Store
+
+# Windows
+# Thumbs.db
+
+# Environment-specific files
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
